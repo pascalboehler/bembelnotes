@@ -1,4 +1,4 @@
-import "package:bembelnotes/mdRenderer/markdownrenderer.dart";
+import "package:bembelnotes/helper/markdownrenderer.dart";
 import "package:flutter/material.dart";
 
 class Home extends StatelessWidget {
