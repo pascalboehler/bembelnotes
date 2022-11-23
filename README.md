@@ -1,6 +1,6 @@
 # Bembel notes
 
-A markdown compatible note taking app taht allows hand drawn sketches.
+A markdown compatible note taking app that allows hand drawn sketches.
 
 ## Idea
 
